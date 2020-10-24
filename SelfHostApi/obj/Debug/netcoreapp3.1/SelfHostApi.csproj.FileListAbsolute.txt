@@ -19,3 +19,4 @@ C:\Users\Администратор\source\repos\SelfHost\SelfHostApi\bin\Debug\
 C:\Users\Администратор\source\repos\SelfHost\SelfHostApi\obj\Debug\netcoreapp3.1\SelfHostApi.csproj.CoreCompileInputs.cache
 C:\Users\Администратор\source\repos\SelfHost\SelfHostApi\obj\Debug\netcoreapp3.1\SelfHostApi.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Администратор\source\repos\SelfHost\SelfHostApi\obj\Debug\netcoreapp3.1\SelfHostApi.csproj.CopyComplete
+C:\Users\Администратор\source\repos\SelfHost\SelfHostApi\obj\Debug\netcoreapp3.1\SelfHostApi.csprojAssemblyReference.cache

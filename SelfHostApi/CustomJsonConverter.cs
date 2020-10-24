@@ -17,7 +17,15 @@ namespace SelfHostApi
         public override object ReadJson(JsonReader reader, Type objectType, object existingValue,
             JsonSerializer serializer)
         {
-            var jObj = JObject.Load(reader);
+            JObject jObj;
+            try
+            {
+                jObj = JObject.Load(reader);
+            }
+            catch (Exception ex)
+            {
+                return null;
+            }
 
             try
             {
